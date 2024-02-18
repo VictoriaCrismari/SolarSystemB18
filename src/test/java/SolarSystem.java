@@ -13,6 +13,6 @@ public class SolarSystem {
         Planet1 frog=new Planet1();
         frog.color="blue";
         frog.temp="-15561256k";
-        frog.size="2km";
+        frog.size="20km";
     }
 }
